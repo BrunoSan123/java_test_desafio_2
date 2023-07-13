@@ -2,7 +2,6 @@ package org.example;
 
 import java.util.Scanner;
 
-import java.util.Scanner;
 
 public class DecomposicaoMonetaria {
     public static void main(String[] args) {

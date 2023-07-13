@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4350042-bf43-4210-853b-b4b5aa1705b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DecomposicaoMonetaria.java" afterDir="false" />
+    <list default="true" id="a4350042-bf43-4210-853b-b4b5aa1705b7" name="Changes" comment="desafio 2, contagem monetária feito">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DecomposicaoMonetaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DecomposicaoMonetaria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +39,20 @@
       <option name="presentableId" value="Default" />
       <updated>1689255860440</updated>
     </task>
+    <task id="LOCAL-00001" summary="desafio 2, contagem monetária feito">
+      <option name="closed" value="true" />
+      <created>1689269548240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689269548240</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="desafio 2, contagem monetária feito" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio 2, contagem monetária feito" />
   </component>
 </project>
